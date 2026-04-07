@@ -1,9 +1,9 @@
 import { useState } from "react";
-import ShopPage from "./pages/ShopPage";
-import SellPage from "./pages/SellPage";
-import UserPage from "./pages/UserPage";
-import Navbar from "./components/Navbar";
-import Header from "./components/Header";
+import ShopPage from "./Pages/ShopPage.jsx";
+import SellPage from "./Pages/SellPage.jsx";
+import UserPage from "./Pages/UserPage.jsx";
+import Navbar from "./components/Navbar.jsx";
+import Header from "./components/Header.jsx";
 import "./App.css";
 
 export default function App() {
